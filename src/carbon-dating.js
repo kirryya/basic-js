@@ -32,4 +32,4 @@ module.exports = {
     dateSample
 };
 
-console.log(dateSample('rrr'))
+// console.log(dateSample('rrr'))
